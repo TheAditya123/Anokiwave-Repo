@@ -1,0 +1,12 @@
+../App/Src/beamformer.c:11:6:BF_Init	16	static
+../App/Src/beamformer.c:19:10:BF_Pack60	56	static
+../App/Src/beamformer.c:25:10:BF_Pack62	80	static
+../App/Src/beamformer.c:37:6:BF_Pack62_to2x31	24	static
+../App/Src/beamformer.c:46:6:BF_Pack34	184	static
+../App/Src/beamformer.c:74:6:BF_Pack34_to2x17	160	static
+../App/Src/beamformer.c:91:6:BF_Pack60_to4x15	24	static
+../App/Src/beamformer.c:104:6:BF_Pack60_to2x30	24	static
+../App/Src/beamformer.c:116:19:BF_Send60	32	static
+../App/Src/beamformer.c:128:19:BF_Send60_Chain	40	static
+../App/Src/beamformer.c:159:19:BF_Send62_Broadcast	32	static
+../App/Src/beamformer.c:172:19:BF_Send34_FastBeam	32	static

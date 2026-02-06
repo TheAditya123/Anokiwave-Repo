@@ -1,0 +1,6 @@
+../App/Src/bf_spi.c:4:17:BF_SPI_DatasizeForBits	5
+../App/Src/bf_spi.c:17:19:BF_SPI_ReInitDataSize	9
+../App/Src/bf_spi.c:46:19:BF_SPI_ReInitForBits	2
+../App/Src/bf_spi.c:54:6:BF_SPI_DeInit	3
+../App/Src/bf_spi.c:61:19:BF_SPI_Send2Words	5
+../App/Src/bf_spi.c:79:19:BF_SPI_Tx2Words_NoCS	4
